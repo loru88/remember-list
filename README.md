@@ -6,6 +6,11 @@ a list of interesting link to remember
 - [Google Start Kit](https://github.com/google/web-starter-kit)
 - [Browsersync](https://browsersync.io/)
 
+### Graphics & Animation
+
+- [Adobde Color](https://color.adobe.com/it/), color palettes
+- [bodymovin](https://github.com/bodymovin/bodymovin) adobe after effects to html5 animation
+
 ### Database
 
 - [ProxySql](http://proxysql.com/) instead of native MySql query cache
