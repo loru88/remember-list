@@ -19,6 +19,10 @@ a list of interesting link to remember
   
          - http://mysqlserverteam.com/mysql-8-0-retiring-support-for-the-query-cache/
          - http://proxysql.com/blog/scaling-with-proxysql-query-cache
+         
+- [Let's Build a Simple Database: Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/)
+  
+  
 
 ### SSL
 - create CSR file online https://certificatetools.com/
