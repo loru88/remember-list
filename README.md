@@ -31,6 +31,9 @@ a list of interesting link to remember
 - create CSR file online https://certificatetools.com/
 - get green HTTPS bar in Chrome for local development https://alexanderzeitler.com/articles/Fixing-Chrome-missing_subjectAltName-selfsigned-cert-openssl/
 
+### Algotithmis
+ - [Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/)
+
 ### Misc
 
 - sometime check https://github.com/trending
