@@ -11,6 +11,9 @@ a list of interesting link to remember
 - [Adobde Color](https://color.adobe.com/it/), color palettes
 - [bodymovin](https://github.com/bodymovin/bodymovin) adobe after effects to html5 animation
 
+### Machine Learning
+ - [Machine Learning in JavaScript](https://github.com/javascript-machine-learning)
+
 ### Database
 
 - [ProxySql](http://proxysql.com/) instead of native MySql query cache
