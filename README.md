@@ -1,10 +1,13 @@
 # Remember List
 a list of interesting link to remember
 
-### Web Development
+### Web Development Tools
 
 - [Google Start Kit](https://github.com/google/web-starter-kit)
 - [Browsersync](https://browsersync.io/)
+
+#### GIT tips
+ - [to fix up](https://sethrobertson.github.io/GitFixUm/fixup.html)
 
 ### Graphics & Animation
 
