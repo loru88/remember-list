@@ -36,6 +36,7 @@ a list of interesting link to remember
 
 ### Algotithmis
  - [Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/)
+ - [I don't understand graph theory](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 
 ### Misc
 
