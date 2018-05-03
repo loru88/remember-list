@@ -8,6 +8,7 @@ a list of interesting link to remember
 
 #### GIT tips
  - [to fix up](https://sethrobertson.github.io/GitFixUm/fixup.html)
+ - [Backlog.com tutorial](https://backlog.com/git-tutorial/)
 
 ### Graphics & Animation
 
