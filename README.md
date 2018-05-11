@@ -39,6 +39,9 @@ a list of interesting link to remember
  - [Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/)
  - [I don't understand graph theory](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 
+### Tech Blog
+ - [Culttt](https://www.culttt.com/)
+
 ### Misc
 
 - sometime check https://github.com/trending
