@@ -45,6 +45,7 @@ a list of interesting link to remember
 ### Misc
 
 - sometime check https://github.com/trending
+- [A short introduction to the art of programming](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD316.PDF)
 
 
 
