@@ -41,6 +41,7 @@ a list of interesting link to remember
 
 ### Tech Blog
  - [Culttt](https://www.culttt.com/)
+ - [Ian Miell](https://ian.meirionconsulting.com/)
  - [Physics Lessons in Javascript](https://landgreen.github.io/physics/index.html)
 
 ### Misc
