@@ -1,22 +1,32 @@
 # Remember List
 a list of interesting link to remember
 
+## Software Engineering
+
+- [The Twelve-Factor App](https://12factor.net/)
+
 ### Web Development Tools
 
 - [Google Start Kit](https://github.com/google/web-starter-kit)
 - [Browsersync](https://browsersync.io/)
 
+
 #### GIT tips
+
  - [to fix up](https://sethrobertson.github.io/GitFixUm/fixup.html)
  - [Backlog.com tutorial](https://backlog.com/git-tutorial/)
+
 
 ### Graphics & Animation
 
 - [Adobde Color](https://color.adobe.com/it/), color palettes
 - [bodymovin](https://github.com/bodymovin/bodymovin) adobe after effects to html5 animation
 
+
 ### Machine Learning
+
  - [Machine Learning in JavaScript](https://github.com/javascript-machine-learning)
+
 
 ### Database
 
@@ -28,21 +38,25 @@ a list of interesting link to remember
          - http://proxysql.com/blog/scaling-with-proxysql-query-cache
          
 - [Let's Build a Simple Database: Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/)
-  
-  
+
 
 ### SSL
+
 - create CSR file online https://certificatetools.com/
 - get green HTTPS bar in Chrome for local development https://alexanderzeitler.com/articles/Fixing-Chrome-missing_subjectAltName-selfsigned-cert-openssl/
 
+
 ### Algotithmis
+
  - [Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/)
  - [I don't understand graph theory](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+
 
 ### Tech Blog
  - [Culttt](https://www.culttt.com/)
  - [Ian Miell](https://ian.meirionconsulting.com/)
  - [Physics Lessons in Javascript](https://landgreen.github.io/physics/index.html)
+
 
 ### Misc
 
