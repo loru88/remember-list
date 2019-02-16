@@ -46,7 +46,7 @@ a list of interesting link to remember
 - get green HTTPS bar in Chrome for local development https://alexanderzeitler.com/articles/Fixing-Chrome-missing_subjectAltName-selfsigned-cert-openssl/
 
 
-### Algotithmis
+### Algorithms
 
  - [Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/)
  - [I don't understand graph theory](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
@@ -62,6 +62,7 @@ a list of interesting link to remember
 
 - sometime check https://github.com/trending
 - [A short introduction to the art of programming](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD316.PDF)
+- [runs C in the browser for learning low level programming](https://github.com/vasyop/miniC-hosting)
 
 
 
