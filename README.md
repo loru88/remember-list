@@ -5,6 +5,10 @@ a list of interesting link to remember
 
 - [The Twelve-Factor App](https://12factor.net/)
 
+### Angular
+- [OnPush strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
+- [API model adapter](https://blog.florimond.dev/consuming-apis-in-angular-the-model-adapter-pattern)
+
 ### Web Development Tools
 
 - [Google Start Kit](https://github.com/google/web-starter-kit)
