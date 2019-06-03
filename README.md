@@ -2,8 +2,10 @@
 a list of interesting link to remember
 
 ### Software Engineering
-
 - [The Twelve-Factor App](https://12factor.net/)
+
+# Scripting
+- [Bash cheatsheet](https://devhints.io/bash) 
 
 ### Angular
 - [OnPush strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
