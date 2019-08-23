@@ -2,14 +2,23 @@
 a list of interesting link to remember
 
 ### Software Engineering
-- [The Twelve-Factor App](https://12factor.net/)
 
-# Scripting
+#### Patterns
+- [Rewrite a CRUD System with Events and CQRS](https://msdn.microsoft.com/magazine/mt790196)
+
+#### Microservices
+- [The Twelve-Factor App](https://12factor.net/)
+- [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
+
+#### Scripting
 - [Bash cheatsheet](https://devhints.io/bash) 
 
 ### Angular
 - [OnPush strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
 - [API model adapter](https://blog.florimond.dev/consuming-apis-in-angular-the-model-adapter-pattern)
+
+### Reactive Programming
+- [RxJS: Understanding the publish and share Operators](https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635)
 
 ### Web Development Tools
 
