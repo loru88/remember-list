@@ -1,6 +1,10 @@
 # Remember List
 a list of interesting link to remember
 
+### Soft Skills
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+- [Tuple’s Pair Programming Guide (wip)](https://tuple.app/pair-programming-guide/)
+
 ### Software Engineering
 
 #### Patterns
@@ -30,6 +34,9 @@ a list of interesting link to remember
 
  - [to fix up](https://sethrobertson.github.io/GitFixUm/fixup.html)
  - [Backlog.com tutorial](https://backlog.com/git-tutorial/)
+ - [Learn Git Branching](https://learngitbranching.js.org/)
+ - [A Grip On Git](https://agripongit.vincenttunru.com/)
+ - [GitFlow interactive](https://veerasundar.com/blog/2018/03/gitflow-animated/)
 
 
 ### Graphics & Animation
