@@ -63,8 +63,9 @@ a list of interesting link to remember
 - [Let's Build a Simple Database: Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/)
 
 
-### SSL
+### Security
 
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - create CSR file online https://certificatetools.com/
 - get green HTTPS bar in Chrome for local development https://alexanderzeitler.com/articles/Fixing-Chrome-missing_subjectAltName-selfsigned-cert-openssl/
 
