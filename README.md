@@ -15,7 +15,8 @@ a list of interesting link to remember
 - [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
 
 #### Scripting
-- [Bash cheatsheet](https://devhints.io/bash) 
+- [Bash cheatsheet](https://devhints.io/bash)
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bibl)
 
 ### Angular
 - [OnPush strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
