@@ -21,6 +21,7 @@ a list of interesting link to remember
 ### Angular
 - [OnPush strategy](https://blog.ninja-squad.com/2018/09/27/angular-performances-part-4/)
 - [API model adapter](https://blog.florimond.dev/consuming-apis-in-angular-the-model-adapter-pattern)
+- [Typescript Deep Dive](https://basarat.gitbooks.io/typescript/content/)
 
 ### Reactive Programming
 - [RxJS: Understanding the publish and share Operators](https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635)
