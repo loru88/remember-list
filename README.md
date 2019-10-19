@@ -89,6 +89,8 @@ a list of interesting link to remember
 - sometime check https://github.com/trending
 - [A short introduction to the art of programming](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD316.PDF)
 - [runs C in the browser for learning low level programming](https://github.com/vasyop/miniC-hosting)
+- [Pipedream](https://pipedream.com/workflows?view=active) Workflow are code and free
+- [syncthing](https://github.com/syncthing/syncthing) Opensource client server folder sync
 
 
 
