@@ -83,6 +83,10 @@ a list of interesting link to remember
  - [Ian Miell](https://ian.meirionconsulting.com/)
  - [Physics Lessons in Javascript](https://landgreen.github.io/physics/index.html)
 
+### Project based learning
+
+- https://github.com/tuvtran/project-based-learning
+- https://github.com/AlgoryL/Projects-from-Scratch
 
 ### Misc
 
