@@ -2,12 +2,14 @@
 a list of interesting link to remember
 
 ### Soft Skills
+- [How to remember anything forever-ish](https://ncase.me/remember/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Tuple’s Pair Programming Guide (wip)](https://tuple.app/pair-programming-guide/)
 
 ### Software Engineering
 
 #### Patterns
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [Rewrite a CRUD System with Events and CQRS](https://msdn.microsoft.com/magazine/mt790196)
 
 #### Microservices
@@ -27,13 +29,11 @@ a list of interesting link to remember
 - [RxJS: Understanding the publish and share Operators](https://blog.angularindepth.com/rxjs-understanding-the-publish-and-share-operators-16ea2f446635)
 
 ### Web Development Tools
-
 - [Google Start Kit](https://github.com/google/web-starter-kit)
 - [Browsersync](https://browsersync.io/)
 
 
 #### GIT tips
-
  - [to fix up](https://sethrobertson.github.io/GitFixUm/fixup.html)
  - [Backlog.com tutorial](https://backlog.com/git-tutorial/)
  - [Learn Git Branching](https://learngitbranching.js.org/)
