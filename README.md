@@ -88,6 +88,9 @@ a list of interesting link to remember
 - https://github.com/tuvtran/project-based-learning
 - https://github.com/AlgoryL/Projects-from-Scratch
 
+### Architecture
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
 ### Misc
 
 - sometime check https://github.com/trending
