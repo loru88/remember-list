@@ -34,6 +34,7 @@ a list of interesting link to remember
 
 
 #### GIT tips
+ - [Visualize GIT](https://onlywei.github.io/explain-git-with-d3/)
  - [to fix up](https://sethrobertson.github.io/GitFixUm/fixup.html)
  - [Backlog.com tutorial](https://backlog.com/git-tutorial/)
  - [Learn Git Branching](https://learngitbranching.js.org/)
