@@ -100,6 +100,7 @@ a list of interesting link to remember
 - [Pipedream](https://pipedream.com/workflows?view=active) Workflow as code and free
 - [syncthing](https://github.com/syncthing/syncthing) Opensource client server folder sync
 - [How to take notes](https://barehands.substack.com/p/how-to-take-meeting-notes)
+- [Google Site Reliability Engineering](https://sre.google/workbook/table-of-contents/)
 
 
 
