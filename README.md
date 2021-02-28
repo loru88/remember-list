@@ -5,6 +5,7 @@ a list of interesting link to remember
 - [How to remember anything forever-ish](https://ncase.me/remember/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 - [Tuple’s Pair Programming Guide (wip)](https://tuple.app/pair-programming-guide/)
+- [Series: Unpacking Interview Questions](https://jacobian.org/series/unpacking-interview-questions/)
 
 ### Software Engineering
 
