@@ -17,6 +17,10 @@ a list of interesting link to remember
 - [The Twelve-Factor App](https://12factor.net/)
 - [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
 
+#### Languages
+
+- [Practical Go lessons](https://www.practical-go-lessons.com/)
+
 #### Scripting
 - [Bash cheatsheet](https://devhints.io/bash)
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bibl)
