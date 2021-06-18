@@ -96,6 +96,7 @@ a list of interesting link to remember
 - https://github.com/AlgoryL/Projects-from-Scratch
 
 ### Architecture
+- [Apache Kafka as children book](https://www.gentlydownthe.stream/)
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ### Misc
