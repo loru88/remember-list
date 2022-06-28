@@ -70,6 +70,7 @@ a list of interesting link to remember
          - http://proxysql.com/blog/scaling-with-proxysql-query-cache
          
 - [Let's Build a Simple Database: Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/)
+- [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
 
 
 ### Security
