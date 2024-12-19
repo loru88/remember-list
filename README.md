@@ -71,6 +71,8 @@ a list of interesting link to remember
          
 - [Let's Build a Simple Database: Writing a sqlite clone from scratch in C](https://cstack.github.io/db_tutorial/)
 - [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
+- [Columnar storage format](https://airbyte.com/data-engineering-resources/columnar-storage)
+- [Apache Arrow])(https://arrow.apache.org/docs/format/Intro.html)
 
 
 ### Security
